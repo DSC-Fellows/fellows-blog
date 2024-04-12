@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Stephen Webb's Project: A Public Facing Tool for Perusing the Digital Reconstitution of Lord Byron's Library"
+date:   2024-03-15 13:20:26 -0700
+categories: fellow post
+---
