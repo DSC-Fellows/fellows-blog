@@ -2,11 +2,9 @@
 layout: post
 title:  "Why Visualizations of Lord Byron's Library?"
 author: "Stephen Webb"
-date:   2024-07-19
+date:   2024-06-25
 categories: dsc
 ---
-
-<style>p a img { margin: 1px solid black; }</style>
 
 > University of Alberta Digital Scholarship Centre Graduate Student Fellowship Project Post
 
