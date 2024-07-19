@@ -1,0 +1,13 @@
+---
+---
+
+@import "minima";
+
+a.page-image img {
+	border: 1px solid black;
+	margin: auto;
+}
+p > a.page-image {
+	display: block;
+	width: 100%;
+}
