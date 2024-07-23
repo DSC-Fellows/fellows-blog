@@ -23,7 +23,7 @@ email: dsclib@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   The Fellows program of the Digital Scholarship Centre,
   University of Alberta Libraries
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fellows-blog" # the subpath of your site, e.g. /blog
 url: "https://dsc-fellows.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dsc-fellows
 
