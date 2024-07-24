@@ -14,6 +14,8 @@ This preliminary examination will offer an entry point to the perusals of Byron'
 
 So, the above question is actually three parts: why Byron, why Byron's library, and why visualizations?
 
+<!-- more -->
+
 ### Byromania
 
 Byron was famous in his time and he recognized this. There is a field of scholarship which has identified the confluence of factors that combined to see his meteoric rise as a poet and celebrity, but it is at least as interesting to see his contemporary audience themselves reacting to his ascent to the heights of fame.

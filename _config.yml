@@ -28,9 +28,27 @@ url: "https://dsc-fellows.github.io" # the base hostname & protocol for your sit
 github_username:  dsc-fellows
 
 # Build settings
-theme: minima
+theme: jekyll-whiteglass
 plugins:
   - jekyll-feed
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+
+excerpt_separator: "<!-- more -->"
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

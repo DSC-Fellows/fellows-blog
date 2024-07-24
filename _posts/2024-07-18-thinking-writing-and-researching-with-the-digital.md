@@ -15,7 +15,7 @@ is actually absent but with the potentiality to actualize the present through me
 evocations, feelings and emotions (Guggenheim, 2010; Shields, 2003). Photography has many
 potentialities: image is mobile instead of static; it speaks of a movement, a practice, a doing. Hi!
 My name is Juan, I am from Colombia (the one with the O, not with the U), and I like to study
-urban informality. Urban informality relates to city sectors and neighbourhoods that were neither
+urban informality. <!-- more --> Urban informality relates to city sectors and neighbourhoods that were neither
 planned nor built by developers nor State agencies. They are usually built by the same people,
 from low income communities, who inhabit them due the lack of housing and access to the
 housing market. When I say ‘I like to study urban informality’, it is because of the relation of
