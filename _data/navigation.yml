@@ -1,0 +1,9 @@
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+main:
+  - title: "Digital Scholarship Centre"
+    url: https://dsc.library.ualberta.ca/
+  - title: "Fellows Program"
+    url: https://docs.google.com/document/d/1qgmxFrTsqti8ZVkTlnVoXzwvge8u-egE4Xc5oOa-2OQ/edit#heading=h.p0d57uvy9rad
+  - title: "Archives"
+    url: /archives/

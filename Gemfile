@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem "csv"
   gem "base64"
   gem "bigdecimal"
+  gem "jekyll-whiteglass"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
