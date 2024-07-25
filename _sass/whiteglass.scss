@@ -37,8 +37,6 @@ $on-laptop:        800px !default;
   }
 }
 
-
-
 // Import partials.
 @import
   "whiteglass/base",
@@ -46,3 +44,9 @@ $on-laptop:        800px !default;
   "whiteglass/syntax-highlighting",
   "fellows"
 ;
+
+@include media-query($on-palm) {
+  div.fellow-head {
+    width: 250px;
+  }
+}
