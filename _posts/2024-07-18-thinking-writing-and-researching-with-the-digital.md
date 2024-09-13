@@ -3,7 +3,6 @@ layout: post
 title:  "Thinking, Writing and Researching with the ‘Digital’"
 author: "Juan David Guevara Salamanca"
 date:   2024-07-19
-categories: dsc
 ---
 
 A few months ago, the pressure of writing for the Digital Scholarship Centre fellowship came to

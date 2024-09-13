@@ -3,7 +3,6 @@ layout: post
 title:  "Learning Computational Thinking for/with Digital Humanities"
 author: "Evgeny Kuznetsov"
 date:   2024-07-31
-categories: dsc
 ---
 
 > This is an introductory post for a developing blogging project.
